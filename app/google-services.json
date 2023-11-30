@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179990425146",
+    "project_id": "hellomarket-a881d",
+    "storage_bucket": "hellomarket-a881d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179990425146:android:89f0afc3850e1ec40d4f03",
+        "android_client_info": {
+          "package_name": "com.example.hellomarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAME7RKqRyJEL8t20oTsrjOqMDBSZ9yATg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
